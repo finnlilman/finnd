@@ -1,0 +1,5 @@
+@echo off
+echo hey man
+pause
+echo is my test so i can see if i can do basic stuff
+pause
